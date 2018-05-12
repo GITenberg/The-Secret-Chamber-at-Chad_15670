@@ -1,0 +1,38 @@
+_repo: The-Secret-Chamber-at-Chad_15670
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Everett-Green, Evelyn
+    aliases:
+    - Dare, Evelyn
+    - Adair, Cecil
+    - Ward, E.
+    - Everett-Green, E. (Evelyn)
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '4888'
+    url: http://www.gutenberg.org/2009/agents/4888
+description: ''
+gutenberg_issued: '2005-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15670'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Henry VII, 1485-1509 -- Juvenile fiction'
+- !lcsh 'Heresy -- Juvenile fiction'
+- !lcsh 'Hiding places -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Chivalry -- Juvenile fiction'
+- !lcsh 'Nobility -- England -- Juvenile fiction'
+- !lcsh 'Knights and knighthood -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Brothers -- Juvenile fiction'
+title: The Secret Chamber at Chad
+url: http://www.gutenberg.org/ebooks/15670
